@@ -9,6 +9,10 @@
 - 学习笔记
 - 课后习题思考 + 代码
 
+第二章学习笔记:
+文档：挑战程序设计 - 第二章.note 链接：http://note.youdao.com/noteshare?id=f8dc44b79f41aeee83b28f67b66122dc
+
+
 
  
  
